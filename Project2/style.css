@@ -1,0 +1,78 @@
+h1{
+	color:#610000; 
+	text-align:center;
+	font-weight: bold;
+	font-size: 100px;
+}
+h2{
+	color:#610000;
+	font-style: italic;
+}
+h3{
+	color:#610000;
+	font-weight: bold;
+}
+
+pre{
+	text-align:center;
+}
+a{
+	color:black;
+}
+body{
+	background-color:#DBD2D0; 
+}
+p{
+	font-style: italic;
+	text-align: justify;
+	
+}
+dt{
+	font-weight: bold;
+}
+dt{
+	color:grey;
+	font-style: italic;
+}
+.skills{
+	text-align:center;
+}
+li{
+	font-style: italic;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+header{
+	background-color:#DBD2D0;
+	margin-top: 0;
+    margin-right: 4em;
+    margin-bottom: 0;
+    margin-left: 4em;
+}
+aside{
+	position: fixed;
+	right: 0;
+	top: 39px;
+	width: 20%;
+	height: 100%;
+	box-sizing: border-box;
+	padding: 0px 20px;
+	background-color:#947575; 	
+	border-left: 1px #002395;
+}
+.experience{
+    width:40%;
+    float:left;
+    margin:10;
+    padding:0;  
+}
+.education{
+  width:40%;
+    float:left;
+    margin:10;
+}
