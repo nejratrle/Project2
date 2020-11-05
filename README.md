@@ -1,5 +1,5 @@
 # Project2
-<!DOCTYPE html>
+
 <html>
 <head>
 	<!-- Name: Nejra Trle
